@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 UI/UX designer and developer
-👀 Into Python **programming**.
+👀 Into Python **programming**.</br>
 😄 Pronouns: **THAT/GUY** (because why not? 😄).
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

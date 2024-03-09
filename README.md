@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 UI/UX designer and developer</br>
+- 🔭 Fullstack designer and developer</br>
 - 👀 Into Python **programming**.</br>
 - 😄 Pronouns: **THAT/GUY** (because why not? 😄).
 <!--

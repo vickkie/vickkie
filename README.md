@@ -2,7 +2,8 @@
 
 - 🔭 Fullstack developer</br>
 - 👀 Into **Car racing** and  **programming**.</br>
-- 😄 Pronouns: **THAT/GUY** (because why not? 😄).
+- 😄 Pronouns: **THAT/GUY** (because why not? 😄).</br>
+- ⚡ Favourites: Python , Javascript , Ruby
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

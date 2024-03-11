@@ -1,4 +1,4 @@
-### Hi there 👋 ![Custom Image](https://github.com/vickkie/vickkie/assets/43224578/308d1442-5ac8-49db-8117-75ad683fe59b =100x)
+### Hi there 👋
 
 
 - 🔭 Fullstack developer</br>

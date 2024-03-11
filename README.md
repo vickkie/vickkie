@@ -1,9 +1,10 @@
 ### Hi there 👋
+- 🔭 Fullstack developer
+- 👀 Into **Car racing** and **programming**.
+- ⚡ Favourites: Python, JavaScript, Ruby
 
+Check out my CodePen  [here](https://codepen.io/uzitrake).
 
-- 🔭 Fullstack developer</br>
-- 👀 Into **Car racing** and  **programming**.</br>
-- ⚡ Favourites: Python , Javascript , Ruby
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: **THAT/GUY** (because why not? 😄).</br>

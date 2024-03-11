@@ -2,8 +2,7 @@
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
 - ⚡ Favourites: Python, JavaScript, Ruby
-
-Check out my CodePen  [here](https://codepen.io/uzitrake).
+-  more work on CodePen  [here](https://codepen.io/uzitrake).
 
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

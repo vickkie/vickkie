@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
 - ⚡ Favourites: Python, JavaScript, Ruby

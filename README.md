@@ -2,7 +2,7 @@
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
 - ⚡ Favourites: Python, JavaScript, Ruby , React , React native
--  main work at  [Work portfolio](https://hypercritical.vercel.app).
+-  main work at  [Work portfolio](https://hypercritical.vickkie.store).
 
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

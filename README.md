@@ -1,7 +1,7 @@
 ### Bonjour 👋
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
-- ⚡ Favourites: Python, JavaScript, Ruby , React , React native
+- ⚡ Favourites: JavaScript, React , React native , Ruby , php
 -  main work at  [Work portfolio](https://hypercritical.vickkie.store).
 
 <!--

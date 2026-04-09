@@ -2,7 +2,6 @@
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
 - ⚡ Favourites: JavaScript, React , React native , Ruby , php
--  main work at  [Work portfolio](https://hypercritical.vickkie.store).
 
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

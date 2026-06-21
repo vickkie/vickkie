@@ -2,7 +2,7 @@
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
 - ⚡ Favourites:  React native , NextJs , Laravel , Python
-
+- 😄 check out my public showcase projects -made with love
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: **THAT/GUY** (because why not? 😄).</br>

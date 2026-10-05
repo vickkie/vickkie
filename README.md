@@ -1,7 +1,8 @@
 ### Bonjour 👋
 - 🔭 Fullstack developer
 - 👀 Into **Car racing** and **programming**.
-- ⚡ Favourites:  React native , NextJs , Laravel , Python
+- ⚡ Favourites :  React native , NextJs , Laravel , Python
+- 👯 Backend Bestie : Redis
 - 😄 check out my public showcase projects -made with love
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 🔭 Fullstack All day
 - 👀 Into **Car racing** and **tech**.
 - ⚡ Favourites :  React native , NextJs , Laravel , Python
-- 👯 Backend Bestie : Redis
+- 👯 Friend : Redis
 - 😄 check out my public showcase projects - made with 💙
 <!--
 **vickkie/vickkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
